@@ -17,7 +17,6 @@ This course teaches core strategies for designing efficient algorithms, such as 
 * **_Karatsuba's Algorithm_**
 * **_Closest Pair of Points_**
 
----
 
 ## Dynamic Programming
 
@@ -32,8 +31,6 @@ This course teaches core strategies for designing efficient algorithms, such as 
 * **_Corporate Party Planning_**
 * **_Edit Distance (Levenshtein)_**
 
----
-
 ## Greedy Algorithms
 
 
@@ -45,7 +42,6 @@ This course teaches core strategies for designing efficient algorithms, such as 
 * **_Coin Change Problem_**
 * **_Proof of Optimality_**
 
----
 
 ## Graph Algorithms
 
@@ -58,7 +54,6 @@ This course teaches core strategies for designing efficient algorithms, such as 
 * **_Bellman-Ford Algorithm_**
 * **_Floyd-Warshall Algorithm_**
 
----
 
 ## Network Flow
 
@@ -72,7 +67,6 @@ This course teaches core strategies for designing efficient algorithms, such as 
 * **_Maximum Bipartite Matching_**
 * **_Circulation with Demands_**
 
----
 
 ## NP and NP-Completeness
 
